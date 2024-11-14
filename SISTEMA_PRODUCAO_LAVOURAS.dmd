@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="SISTEMA_PRODUCAO_LAVOURAS" id="1ABF0BD6-D098-F9A3-24EA-5BF8BEB7EC73" version="3.5">
+<createdBy>diego</createdBy>
+<createdTime>2024-11-14 10:34:12 UTC</createdTime>
+<ownerDesignName>SISTEMA_PRODUCAO_LAVOURAS</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1ABF0BD6-D098-F9A3-24EA-5BF8BEB7EC73</designId>
+</OSDM_Design>
