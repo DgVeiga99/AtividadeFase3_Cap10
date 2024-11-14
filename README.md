@@ -7,6 +7,7 @@ Este projeto consiste no desenvolvimento de um sistema de produção de lavouras
 
 ## 1. Arquivos Disponíveis
 
+- 'TabelaDados': Contém todos os dados utilizados para realizar o modelo logico e relacional
 - `Modelo Logico.pdf`: Apresenta a esturura final do modelo lógico do banco de dados.
 - `Modelo Relacional.pdf`: Apresenta a esturura final do modelo relacional do sistema.
 - `Comandos_SQL.sql`: Contém os comandos SQL para criar as tabelas e realizar consultas.
