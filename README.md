@@ -8,8 +8,8 @@ Este projeto consiste no desenvolvimento de um sistema de produção de lavouras
 ## 1. Arquivos Disponíveis
 
 - A pasta "TabelaDados" contém todos os dados utilizados para realizar o modelo logico e relacional, totalizado em 4 arquivos de formato .xlsx
-- `Modelo Logico.pdf`: Apresenta a esturura final do modelo lógico do banco de dados.
-- `Modelo Relacional.pdf`: Apresenta a esturura final do modelo relacional do sistema.
+- `Modelo Logico.pdf`: Apresenta a estrurura final do modelo lógico do banco de dados.
+- `Modelo Relacional.pdf`: Apresenta a estrurura final do modelo relacional do sistema.
 - `Comandos_SQL.sql`: Contém os comandos SQL para criar as tabelas e realizar consultas.
 - `MapaAtividadeFase3_Cap10.xlsx`: Tabela auxiliar que complementa a análise dos dados do sistema.
 - `SISTEMA_PRODUCAO_LAVOURAS.dmd`: Arquivo do modelo conceitual realizado no Data Modeler.
